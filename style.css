@@ -1,6 +1,12 @@
 body {
-    background-color: #79f6f6;
+    background-color: #9fffff;
     font-family: sans-serif;
+    margin: 0 auto;
+    text-align: center;
+
+}
+h1{
+    margin: 40px;
 }
 
 a{
